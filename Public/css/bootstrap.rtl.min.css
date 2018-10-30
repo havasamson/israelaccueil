@@ -1,0 +1,345 @@
+/********************************************
+    For RTL CSS
+********************************************/
+
+.hero-text-9 h1 {
+    text-align: right;
+}
+
+.blog-sidebar .widget .widget_title {
+    text-align: right;
+}
+
+.widget-search .search-form .form-control {
+    text-align: right;
+}
+
+.post-widget .media .media-left {
+    padding-left: 10px;
+    float: right;
+}
+
+.post-widget .media .media-left {
+    padding-right: 0px;
+}
+
+.tag-widget .tag {
+    margin-left: -7px;
+    text-align: right;
+}
+
+.blog-sidebar .widget + .widget {
+    text-align: right;
+}
+
+.categories-widget .c-list li a i {
+    padding-left: 10px;
+}
+
+.tweets-widget .tweets li span i {
+    color: #9c9c9c;
+    padding-left: 10px;
+}
+
+.tweets-widget .tweets li {
+    text-align: right;
+}
+
+.blog-items .blog-content h2 {
+    text-align: right;
+}
+
+.blog-items .blog-content p {
+    text-align: right;
+}
+
+.post-info {
+    text-align: right;
+}
+
+.footer-top .footer_sidebar .widget .logo {
+    text-align: right;
+}
+
+.footer-top .footer_sidebar .widget {
+    text-align: right;
+}
+
+.navbar-nav.main {
+    float: right;
+}
+
+.navbar-nav.header-social {
+    float: right;
+}
+
+.search_dropdown {
+    border-right: 1px solid rgba(190, 190, 190, .4) !important;
+    padding-right: 15px;
+}
+
+.head-search {
+    border-left: none;
+}
+
+.search_dropdown {
+    border-left: 1px solid rgba(2, 0, 0, 0.0) !important;
+}
+
+.navbar-header {
+    float: right;
+    padding-left: 20px;
+    padding-left: 70px;
+}
+
+.single-post blockquote {
+    text-align: right;
+}
+
+.single-post blockquote {
+    padding: 5px 0px 7px 20px;
+    padding-right: 28px;
+    text-align: right;
+}
+
+blockquote {
+    border-right: 5px solid #eee;
+    border-left: none;
+}
+
+.comment-title {
+    text-align: right;
+}
+
+.comments .comment .media-left {
+    padding-left: 20px;
+    float: right;
+}
+
+.media-body {
+    text-align: right;
+}
+
+.contact-form .form-control::-moz-placeholder {
+    text-align: right;
+}
+
+.btn-6 {
+    float: right;
+}
+
+.about-us-area .about-us h2 {
+    text-align: right;
+}
+
+.about-us-area .about-us h3 {
+    text-align: right;
+    margin-top: 42px;
+}
+
+.about-us-area .about-us p {
+    text-align: right;
+}
+
+.about-us-area .about-us .project-btn {
+    float: right;
+}
+
+.lineab {
+    margin-bottom: 20px;
+    float: right;
+}
+
+.blog-area .blog .blog-item h2 {
+    text-align: right;
+}
+
+.blog-area .blog .blog-item h2::before {
+    right: 0;
+}
+
+.blog-area .blog .blog-item .blog-content h3 {
+    text-align: right;
+}
+
+.blog-area .blog .blog-item .blog-content h4 {
+    text-align: right;
+}
+
+.blog-area .blog .blog-item .blog-content p {
+    text-align: right;
+}
+
+.contact-area .contact-form .form-group .form-title {
+    text-align: right;
+}
+
+.media-left {
+    float: right;
+}
+
+.feature-icon .media-left i {
+    margin-right: 0px;
+    margin-left: 30px;
+}
+
+.features-content h2 {
+    text-align: right;
+    margin-bottom: 10px;
+}
+
+.line {
+    float: right;
+    margin: 0 0;
+}
+
+.features-content {
+    text-align: right;
+}
+
+.features-content h4 {
+    margin-top: 30px;
+}
+
+.blog-text {
+    padding-left: 40px;
+    text-align: right;
+}
+
+.hero-text-3 {
+    text-align: right;
+}
+
+.about-us-area-3 .index-3-title h2::after {
+    content: '';
+    position: absolute;
+    top: 44px;
+    left: 0;
+    bottom: 0;
+    height: 2px;
+    width: 55px;
+    background: #fbfbfb;
+}
+
+.right {
+    text-align: right;
+}
+
+.index-3-title h2 {
+    color: #151617;
+    text-transform: uppercase;
+    font-size: 29px;
+    font-weight: 600;
+    position: relative;
+    margin-bottom: 15px;
+}
+
+.icon-box {
+    text-align: right;
+}
+
+.main-title .index-3-title h2::after {
+    content: '';
+    position: absolute;
+    top: 44px;
+    left: 0;
+    bottom: 0;
+    height: 2px;
+    width: 55px;
+    background: #f5f8fa;
+}
+
+.w80 {
+    max-width: 80%;
+    text-align: right;
+}
+
+.experience-box {
+    text-align: right;
+}
+
+.blog-box2 .blog-text2 {
+    text-align: right;
+}
+
+.b-line {
+    margin-top: 25px;
+    right: 0;
+    position: absolute;
+}
+
+.blog-text2 {
+    text-align: right;
+}
+
+.view-all-box {
+    padding: 128px 0;
+}
+
+.f-left {
+    float: left;
+}
+
+.hero-text-5 {
+    text-align: right;
+}
+
+.hero-text-5 p {
+    width: 100%;
+}
+
+.youtube-popup img {
+    float: right;
+}
+
+.hero-text-5 h2 {
+    margin-top: 102px;
+}
+
+.get-left-text {
+    text-align: right;
+}
+
+.line6 {
+    float: right;
+}
+
+.get-left-text p {
+    margin-top: 47px;
+}
+
+.video-description {
+    text-align: right;
+}
+
+.video-description p {
+    margin-top: 47px;
+}
+
+.featured-work-area8 .gallery8 .gallery-item .img-hover .blog-text8 {
+    left: 30%;
+    text-align: right;
+}
+
+.hero-text-9 p {
+    width: 100%;
+    text-align: right;
+}
+
+.btn9video {
+    padding: 16px 10px 14px 35px;
+    float: right;
+}
+
+.youtube-popup.btn9video img {
+    float: none;
+}
+
+.s-box {
+    text-align: right;
+}
+
+.tab-text-9 {
+    text-align: right;
+    width: 100%;
+}
