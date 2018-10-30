@@ -1,0 +1,26 @@
+{
+  "name": "israelaccueil",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/havasamson/israelaccueil.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/havasamson/israelaccueil/issues"
+  },
+  "homepage": "https://github.com/havasamson/israelaccueil#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "express": "^4.16.4",
+    "node": "^11.0.0",
+    "php": "0.0.1"
+  }
+}
