@@ -4,7 +4,7 @@ var app = express();
 //app.configure, app.use etc
 
 
-app.use(express.static('public'));
+app.use(express.static('/public'));
 app.use(express.static('node_modules'));
 
 
