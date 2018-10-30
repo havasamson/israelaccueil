@@ -14,5 +14,5 @@ app.listen(process.env.PORT || '8000', function(){
 
 
 app.all('*', function(req, res) {
-  res.sendFile(__dirname + "public/index-1.html")
+  res.sendFile(__dirname + "/public/index-1.html")
 })
