@@ -21,7 +21,7 @@ $mail->Port = 465;
 
 //$mail->setFrom('mutasim@droitlab.com', 'Droitlab');
 $mail->setFrom($email, $name);
-$mail->addAddress('israelacceuil@gmail.com', 'IsraelAccueil');     // Add a recipient
+$mail->addAddress('Ava.smsv@gmail.com', 'IsraelAccueil');     // Add a recipient
 $mail->addReplyTo($email, $name);
 $mail->isHTML(true);
 
@@ -35,8 +35,8 @@ if(!$mail->send()) {
   echo 'Mailer Error: ' . $mail->ErrorInfo;*/
   //$result = array('message_status' => 'no', 'content' => $mail->ErrorInfo);
   $result = array('message_status' => 'no', 'content' => 'Email non valide.');
-  echo json_encode($result);
+  echo "Something went wrong";
 } else {
   $result = array('message_status' => 'ok', 'content' => 'Message Envoyé!');
-  echo json_encode($result);
+  echo "Email sent. We'll get back to you soon.";
 }
