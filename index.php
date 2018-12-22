@@ -127,7 +127,7 @@
 
                 </div>
 
-                          <video autoplay="" loop="" id="video-background" muted="" plays-inline="">
+                          <video id="video-background" autoplay loop autobuffer muted playsinline>
   <source src="./video/ISRAELACCUEIL.mp4" type="video/mp4">
 </video>
   </div>
