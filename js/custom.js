@@ -1,4 +1,21 @@
 (function($) {
+
+    $('#send-mail').click(function(e){
+      e.preventDefault();
+      $.ajax({
+        'url': 'contact/contact.php?sendmail',
+        'method' : 'POST',
+        'data' : {
+          'name' : $('#name').val(),
+          'email' : $('#email').val(),
+          'name' : $('#message').val(),
+        },
+        success : function(resp){
+          alert(resp);
+        }
+      });
+    });
+
     "use strict"
 
     /********
@@ -318,7 +335,7 @@
         });
     }
     /********
-        Video play on click 
+        Video play on click
     **********/
 
     // poster frame click event

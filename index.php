@@ -60,38 +60,38 @@
                             <i class="ti-close"></i>
                         </div>
                     </button>
-                    
+
                     <div class="nav-logo">
                         <figure class="snip1462">
-        
+
                <img src="image/lolgo.png" style="max-width:100px" alt="Banner Image Placeholder" id="tilt">
-               
-                      
+
+
                     </div>
                 </div>
                 <div class="collapse navbar-collapse nav-collapse t-border">
                     <ul class="nav navbar-nav menu-list">
                         <li class="nav-item dropdown">
                             <a class="dropdown-toggle" href="#about">L'Association</a>
-                            
-                        </li> 
+
+                        </li>
                         <li><a href="#work">Nos Événements</a></li>
                         <li><a href="#contact">Devenir membre</a></li>
-                       
-                     
+
+
                         <li class="nav-item dropdown"><a class="dropdown-toggle">Vivre en Israël</a>
                             <ul class="dropdown-menu">
                                 <li class="sub-menu"><a href="#liens">Liens utiles</a></li>
                              <!--    <li class="sub-menu"><a href="blog-left-sidebar.html" target="_blank">Applications utiles</a></li> -->
                                 <li class="sub-menu"><a href="https://www.sante.org.il/numeros-de-telephone-utiles/" target="_blank">Numeros d'urgences</a></li>
                                 <li class="sub-menu"><a href="https://jerusalem-info.com/petit-lexique-pour-se-debrouiller-en-hebreu-2/" target="_blank">Lexique en hébreu</a></li>
-                           
+
                             </ul>
                         </li>
 
                         <li><a href="#contact">Contactez nous</a></li>
                     </ul>
-                   
+
                 </div>
             </div>
         </nav>
@@ -113,7 +113,7 @@
         </ul>
         <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
             <!-- Indicators -->
-            
+
             <!-- Wrapper for slides -->
              <div class="carousel-inner" role="listbox">
 
@@ -125,19 +125,19 @@
 
                         <a href="#about" class="project-btn">En savoir plus</a>
 
-                </div>  
-                   
+                </div>
+
                           <video autoplay="" loop="" id="video-background" muted="" plays-inline="">
   <source src="israelaccueil.mp4" type="video/mp4">
 </video>
-  </div>              
-          </div>               
+  </div>
+          </div>
 
-                   
-        
+
+
     </div>
 </section>
-        
+
 
     <!-- Start about-us-area -->
     <section class="row about-us-area" id="about" data-scroll-index="1">
@@ -148,7 +148,7 @@
                         <h2>Qui sommes-nous ?</h2>
                         <div class="lineab"></div>
                         <h3><b style="color:#1398D5;">Israël Accueil</b> aide à l'integration des <b>expatriés français et francophones</b> et crée des opportunités de rencontre et d'échanges au travers d'<b>activités culturelles, sportives ou ludiques</b>.</h3>
-                        
+
                         <p> Créée en 2006, <b style="color:#1398D5;">Israël Accueil</b> permet de découvrir Israël, sa culture et ses habitants ainsi que de partager des informations pratiques et de profiter de l'experience des adhérents installés depuis des années dans le pays. <br>
                             C'est une association a but non lucratif, apolitique, non confessionelle et non commerciale affilié à la <b style="color:darkred;">FIAFE</b> - <em>Fédération Internationale des Accueils Français et francophones à l'Étranger</em> - qui a pour vocation de promouvoir l'accueil des français dans le monde.
            </p>
@@ -179,37 +179,37 @@
             </div>
 
 
-            
+
             <div id="gallery" class="row gallery">
                 <div class="grid-sizer"></div>
                 <!--gallery item-->
                 <div class="col-sm-6 col-xs-6 gallery-item Development marketing wow fadeIn" data-wow-delay="0.30s">
-                   
+
                     <div class="snip1462" id="tilt" href="image/work/1.jpg">
                         <img src="image/image1.jpg" class="img-responsive" alt="agency">
-                    </div>  
+                    </div>
                     <div class="margintop">
-                     Apéritifs, cocktails, cafés, diners 
-                        pour se rencontrer à l'occasion des événements 
+                     Apéritifs, cocktails, cafés, diners
+                        pour se rencontrer à l'occasion des événements
                     qui jalonnent l'année ainsi que des concerts, des sorties sportives, des ateliers loisirs et activitées littéraires.
                 </div>
             </div>
                 <!--gallery item-->
-               
+
                 <!--gallery item-->
                 <div class="col-sm-6 col-xs-6 gallery-item Development wow fadeIn" data-wow-delay="0.65s">
-                    
+
                     <div class="snip1462" id="tilt" href="image/work/6.jpg">
                         <img src="image/image3.jpg" class="img-responsive" alt="agency">
-                    </div> 
-                    <div class="margintop">  
+                    </div>
+                    <div class="margintop">
                     Des visites de découvertes du pays,de sites de production, <br>
-                    des expositions 
+                    des expositions
                 et des conférences.
                 </div>
             </div>
                 <!--gallery item-->
-        
+
 
                 <!--gallery item-->
             </div>
@@ -242,9 +242,9 @@
                         </div>
                         <ul class="list-inline about-social m50">
                             <li><a href="http://www.facebook.com/fiafeisrael"><i class="fa fa-facebook fb"></i></a></li>
-                    
-                            
-                           
+
+
+
                         </ul>
                     </div>
                 </div>
@@ -260,33 +260,35 @@
                          ou en remplissant le formulaire çi-dessous.</p>
                      </div>
                       <div class="margintop">
-                        <div class="col-sm-6">
-                            <input type="text" name="" class="form-control" placeholder="Nom">
-                        </div>
-                        <div class="col-sm-6">
-                            <input type="email" name="" class="form-control" placeholder="Email">
-                        </div>
-                    
-                        <div class="col-sm-12">
-                            <input type="email" name="" class="form-control" placeholder="Message">
-                        </div>
-                        <div class="col-sm-12">
-                            <button type="button" class="btn sent-msg">Envoyer</button>
-                        </div>
+                        <form action="" method="post">
+                          <div class="col-sm-6">
+                              <input type="text" id="name" class="form-control" placeholder="Nom" required>
+                          </div>
+                          <div class="col-sm-6">
+                              <input type="email" id="email" class="form-control" placeholder="Email" required>
+                          </div>
 
-                        
+                          <div class="col-sm-12">
+                              <input type="email" id="message" class="form-control" placeholder="Message" required>
+                          </div>
+                          <div class="col-sm-12">
+                              <button type="button" id="send-mail" class="btn sent-msg">Envoyer</button>
+                          </div>
+                        </form>
+
+
                         </div>
                     </form>
                 </div>
             </div>
         </div>
     </section>
-  
-  
+
+
     <section id="liens">
     </section>
-   
-    
+
+
     <!--start footer area-->
     <div class="height-emulator"></div>
     <footer class="row footer-area" id="footer" >
@@ -294,12 +296,12 @@
             <div class="container">
                 <div class="row footer_sidebar">
                     <div class="widget widget1 about_us_widget col-xs-6 col-sm-6 col-md-3">
-                        <a href="http://fiafe.org" class="logo"> 
+                        <a href="http://fiafe.org" class="logo">
                               <img src="image/lolgo.png" style="max-width:80px" alt="Banner Image Placeholder">
-                              <img src="image/fiafe.png" style="max-width:100px" alt="Banner Image Placeholder"> 
+                              <img src="image/fiafe.png" style="max-width:100px" alt="Banner Image Placeholder">
                                </a>
-                           
-                          
+
+
                         <p> <b style="color:#1398D5;">Israël Accueil</b> est une association a but non lucratif, apolitique, non confessionelle et non commerciale affilié à la <b style="color:darkred;">FIAFE</b> - Fédération Internationale des Accueils Français et francophones à l'Étranger - qui a pour vocation de promouvoir l'accueil des français dans le monde.</p>
                     </div>
                     <div class="widget widget3 widget_twitter  col-xs-6 col-sm-6 col-md-3">
@@ -307,33 +309,33 @@
                         <div class="widget_inner row m0">
                             <ul class="tweets">
                                 <li>
-                                    
+
 
                                         <a href="http://fiafe.org/"><i class="fa fa-link"></i>FIAFE</a>
-                                        
+
                                               </li>
                                 <li>
-                              
+
                                         <a href="http://institutfrancais-israel.com/"><i class="fa fa-link"></i>Instituts Français Israël</a>
-                                        
+
                                               </li>
-                                
+
                                 <li>
                                        <a href="https://il.ambafrance.org/"><i class="fa fa-link"></i>Embassade de France en Israël</a>
-                                  
+
                                 </li>
                                 <li>
-                                    
+
                                        <a href="https://il.ambafrance.org/"><i class="fa fa-link"></i>Consulat Général de France en Israël</a>
-                                        
-                                 
+
+
                                 </li>
                             </ul>
                         </div>
                     </div>
                      <div class="widget widget4 widget_instagram  col-xs-6 col-sm-6 col-md-3">
  <h4 class="widget_title">Infos</h4>
-                        
+
 
                             <span><a href="https://jerusalem-info.com/petit-lexique-pour-se-debrouiller-en-hebreu-2/"><i class="fa fa-arrow-circle-right"></i>  Lexique en hébreu</a></span>
                             <span><a href="https://www.sante.org.il/numeros-de-telephone-utiles/"><i class="fa fa-arrow-circle-right"></i> Numeros utiles</a></span>
@@ -370,7 +372,7 @@
                             </ul>
                         </div>
                     </div>
-                
+
                     </div>
                 </div>
             </div>
@@ -385,7 +387,7 @@
             </div>
         </div>
     </footer>
-    
+
     <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;

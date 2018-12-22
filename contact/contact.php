@@ -7,9 +7,9 @@ require_once 'PHPMailer/PHPMailerAutoload.php';
 header('Content-Type: application/json');
 $mail = new PHPMailer();
 
-$email = $_POST['formMail'];
-$name = $_POST['formName'];
-$mess = $_POST['formMessage'];
+$email = $_POST['email'];
+$name = $_POST['name'];
+$mess = $_POST['message'];
 
 $mail->isSMTP();                                      // Set mailer to use SMTP
 $mail->Host = 'p3plcpnl0361.prod.phx3.secureserver.net';  // Specify main and backup SMTP servers
