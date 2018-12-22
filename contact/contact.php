@@ -16,7 +16,7 @@ $mail->Host = 'p3plcpnl0361.prod.phx3.secureserver.net';  // Specify main and ba
 $mail->SMTPAuth = true;                               // Enable SMTP authentication
 $mail->Username = 'mutasim@droitlab.com';                 // SMTP username
 $mail->Password = 'Muta45**sim?';                           // SMTP password
-$mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
+$mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 465;
 
 //$mail->setFrom('mutasim@droitlab.com', 'Droitlab');
@@ -35,8 +35,8 @@ if(!$mail->send()) {
   echo 'Mailer Error: ' . $mail->ErrorInfo;*/
   //$result = array('message_status' => 'no', 'content' => $mail->ErrorInfo);
   $result = array('message_status' => 'no', 'content' => 'Email non valide.');
-  echo "Something went wrong";
+  echo json_encode($result);
 } else {
   $result = array('message_status' => 'ok', 'content' => 'Message Envoyé!');
-  echo "Email sent. We'll get back to you soon.";
+  echo json_encode($result);
 }
