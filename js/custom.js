@@ -8,7 +8,7 @@
         'data' : {
           'name' : $('#name').val(),
           'email' : $('#email').val(),
-          'name' : $('#message').val(),
+          'message' : $('#message').val(),
         },
         success : function(resp){
           alert(resp);
