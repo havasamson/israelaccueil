@@ -221,7 +221,7 @@ footer.row {
 
 .project-btn {
     font: 500 25px/75px "Poppins", serif;
-   
+
     letter-spacing: 3px;
     box-shadow: none;
     padding: 2px 71px 3px;
@@ -243,7 +243,7 @@ footer.row {
 
 .order-btn {
     font: 400 15px/56px "Poppins", serif;
-   
+
     background: none;
     border: 1px solid ;
     border-radius: 50px;
@@ -373,6 +373,7 @@ footer.row {
     transform: translate(-50%, -50%);
     position: absolute;
     width: 100%;
+    z-index: 22;
 }
 
 .slider-area .carousel .carousel-inner .item .slider-text h4 {
@@ -6726,13 +6727,13 @@ Page Loader
     #video-background {
 /*  making the video fullscreen  */
   position: fixed;
-  right: 0; 
+  right: 0;
   bottom: 0;
-  min-width: 100%; 
+  min-width: 100%;
   min-height: 100%;
-  width: auto; 
+  width: auto;
   height: auto;
-  z-index: -100;
+  z-index: 1;
   background-color: rgba(50,100,200,.5)
 }
 
@@ -6762,7 +6763,7 @@ figure.snip1091 {
   font-family: 'Raleway', Arial, sans-serif;
   position: relative;
   display: inline-block;
-  
+
   min-width: 200px;
   max-width: 300px;
   max-height: 300px;
