@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Israël Accueil</title>
-    <link rel="shortcut icon" href="image/faveicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="image/logopng.png" type="image/x-icon">
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <!--font-awesome icon css-->
@@ -53,7 +53,10 @@
             <div class="menu-width container">
                 <div class="menu-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
-                        <div class="navbar-hamburger">
+                        <div class="navbar-hamburger" style="
+    margin-top: 20px;
+    margin-right: 20px;
+">
                             <i class="ti-menu"></i>
                         </div>
                         <div class="navbar-close hidden">
@@ -64,7 +67,7 @@
                     <div class="nav-logo">
                         <figure class="snip1462">
 
-               <img src="image/lolgo.png" style="max-width:100px" alt="Banner Image Placeholder" id="tilt">
+               <img src="image/logopng.png" style="max-width:85px" alt="Banner Image Placeholder" id="tilt">
 
 
                     </div>
@@ -224,9 +227,9 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-sm-5 plr0 bgcontact">
-                    <div class="short-contact">
+                    <div class="short-contact" style="text-align:center">
                         <div class="nav-logo">
-                       <img src="image/lolgo.png" style="max-width:175px" alt="Banner Image Placeholder">
+                       <img src="image/logopng.png" style="max-width:175px" alt="Banner Image Placeholder">
                     </div>
                         <div class="short-contact-box2">
                             <h4>Adresse</h4>
@@ -297,7 +300,7 @@
                 <div class="row footer_sidebar">
                     <div class="widget widget1 about_us_widget col-xs-6 col-sm-6 col-md-3">
                         <a href="http://fiafe.org" class="logo">
-                              <img src="image/lolgo.png" style="max-width:80px" alt="Banner Image Placeholder">
+                              <img src="image/logopng.png" style="max-width:70px" alt="Banner Image Placeholder">
                               <img src="image/fiafe.png" style="max-width:100px" alt="Banner Image Placeholder">
                                </a>
 
