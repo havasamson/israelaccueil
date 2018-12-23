@@ -306,7 +306,7 @@
 
 
                         <p> <b style="color:#1398D5;">Israël Accueil</b> est une association a but non lucratif, apolitique, non confessionelle et non commerciale affilié à la <b style="color:darkred;">FIAFE</b> - Fédération Internationale des Accueils Français et francophones à l'Étranger - qui a pour vocation de promouvoir l'accueil des français dans le monde.</p>
-                    </div
+                    </div>
                     <div class="widget widget3 widget_twitter  col-xs-6 col-sm-6 col-md-3">
                         <h4 class="widget_title" id="liens">Liens Utiles</h4>
                         <div class="widget_inner row m0">
