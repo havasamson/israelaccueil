@@ -67,7 +67,7 @@
                     <div class="nav-logo">
                         <figure class="snip1462">
 
-               <img src="./image/logopng.png" style="max-width:85px" alt="Banner Image Placeholder" id="tilt">
+               <img src="image/logopng.png" style="max-width:85px" alt="Banner Image Placeholder" id="tilt">
 
 
                     </div>
@@ -229,7 +229,7 @@
                 <div class="col-sm-5 plr0 bgcontact">
                     <div class="short-contact" style="text-align:center">
                         <div class="nav-logo">
-                       <img src="./image/logopng.png" style="max-width:175px" alt="Banner Image Placeholder">
+                       <img src="image/logopng.png" style="max-width:175px" alt="Banner Image Placeholder">
                     </div>
                         <div class="short-contact-box2">
                             <h4>Adresse</h4>
@@ -300,7 +300,7 @@
                 <div class="row footer_sidebar">
                     <div class="widget widget1 about_us_widget col-xs-6 col-sm-6 col-md-3">
                         <a href="http://fiafe.org" class="logo">
-                              <img src="./image/logopng.png" style="max-width:70px" alt="Banner Image Placeholder">
+                              <img src="image/logopng.png" style="max-width:70px" alt="Banner Image Placeholder">
                               <img src="image/fiafe.png" style="max-width:100px" alt="Banner Image Placeholder">
                                </a>
 
