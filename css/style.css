@@ -221,8 +221,6 @@ footer.row {
 
 .project-btn {
     font: 500 25px/75px "Poppins", serif;
-
-    letter-spacing: 3px;
     box-shadow: none;
     padding: 2px 71px 3px;
     display: inline-block;
