@@ -22,21 +22,22 @@ $mail->Port = 465;
 //$mail->setFrom('mutasim@droitlab.com', 'Droitlab');
 $mail->setFrom($email, $name);
 $mail->addAddress('Ava.smsv@gmail.com', 'IsraelAccueil');     // Add a recipient
+$mail->addAddress('muhammadaqibrasheed@gmail.com', 'Aqib');     // Add a recipient
 $mail->addReplyTo($email, $name);
 $mail->isHTML(true);
 
 $mail->Subject = 'Contact From Smith';
-$mail->Body    = '<strong>Name : </strong>' . $name . '<br/><br/>';
-$mail->Body  .= $mess . '<br/>';
 
-// $message = "<h2>New Contact Form Submission Received</h2>".
-//     "<table border='1'>".
-//     "<tr><td><b>Name</b></td><td>$name</td></tr>".
-//     "<tr><td><b>Email</b></td><td>$email</td></tr>".
-//     "<tr><td><b>Message</b></td><td>$mess</td></tr>".
-//     "</table>";
+$message = "<h2>New Contact Form Submission Received</h2>".
+    "<table border='1'>".
+    "<tr><td><b>Name</b></td><td>$name</td></tr>".
+    "<tr><td><b>Email</b></td><td>$email</td></tr>".
+    "<tr><td><b>Message</b></td><td>$mess</td></tr>".
+    "</table>";
 
-// $message.='</table>';
+$message.='</table>';
+
+$mail->Body = $message;
 // $to = "Israelaccueil@gmail.com, Ava.smsv@gmail.com";
 // $subject = "New $type Submission Received";
 // // Always set content-type when sending HTML email
