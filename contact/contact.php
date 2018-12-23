@@ -21,8 +21,7 @@ $mail->Port = 465;
 //
 //$mail->setFrom('mutasim@droitlab.com', 'Droitlab');
 $mail->setFrom($email, $name);
-$mail->addAddress('Ava.smsv@gmail.com', 'IsraelAccueil');     // Add a recipient
-$mail->addAddress('muhammadaqibrasheed@gmail.com', 'Aqib');     // Add a recipient
+$mail->addAddress('Israelaccueil@gmail.com', 'IsraelAccueil');     // Add a recipient
 $mail->addReplyTo($email, $name);
 $mail->isHTML(true);
 
