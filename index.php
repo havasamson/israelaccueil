@@ -1,10 +1,12 @@
 <!DOCTYPE<!DOCTYPE html>
-<html lang="en">
+<html lang="fr_FR">
 
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1"> 
+    <meta name="google-site-verification" content="hZcu16pxPR6wYc6kRsnEw6Z3qLVgKFIqs6zNE27v90U" />
+    <meta description="Israël Accueil est une association a but non lucratif, apolitique, non confessionelle et non commerciale affilié à la FIAFE - Fédération Internationale des Accueils Français et francophones à l'Étranger - qui a pour vocation de promouvoir l'accueil des français dans le monde.">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Israël Accueil</title>
     <link rel="shortcut icon" href="logopng.png" type="image/x-icon">
@@ -34,7 +36,7 @@
     <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-    <meta name="google-site-verification" content="hZcu16pxPR6wYc6kRsnEw6Z3qLVgKFIqs6zNE27v90U" />
+   
 </head>
 
 <body>
@@ -385,7 +387,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-5">
-                        &copy; 2018 All Right Reserved | <a href="index.html">Powered by SAMSO</a>
+                        &copy; 2018 All Right Reserved | <a href="http://www.israelaccueil.com">Powered by SAMSO</a>
                     </div>
                 </div>
             </div>
