@@ -35,7 +35,6 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     <meta name="google-site-verification" content="hZcu16pxPR6wYc6kRsnEw6Z3qLVgKFIqs6zNE27v90U" />
-
 </head>
 
 <body>
@@ -239,7 +238,7 @@
                         </div>
                         <div class="short-contact-box2">
                             <h4>Téléphone</h4>
-                            <p>0527251625</p>
+                            <p>+9527251625</p>
                         </div>
                         <div class="short-contact-box2">
                             <h4>Email</h4>
@@ -359,7 +358,7 @@
                                 <li>
                                     <i class="ti-mobile"></i>
                                     <div class="fleft contact_no">
-                                        <a href="#">(+066) 518 - 457 - 5181</a>
+                                        <a href="#">+972527251625</a>
                                     </div>
                                 </li>
                                 <li>
