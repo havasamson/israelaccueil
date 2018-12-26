@@ -119,7 +119,9 @@
         </ul>
         <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
             <!-- Indicators -->
-
+            <video id="video-background" autoplay loop autobuffer muted playsinline>
+              <source src="./video/ISRAELACCUEIL.mp4" type="video/mp4">
+            </video>
             <!-- Wrapper for slides -->
              <div class="carousel-inner" role="listbox">
 
@@ -133,9 +135,7 @@
 
                 </div>
 
-                          <video id="video-background" autoplay loop autobuffer muted playsinline>
-                          <source src="./video/ISRAELACCUEIL.mp4" type="video/mp4">
-                        </video>
+                          
   </div>
           </div>
 
@@ -423,9 +423,6 @@
     <script type="text/javascript" src="js/scrollIt.min.js"></script>
     <script type="text/javascript" src="js/nav.js"></script>
     <!--custom js-->
-    <script>
-        $('#video-background').play();
-    </script>
     <script src="js/custom.js"></script>
 </body>
 
