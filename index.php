@@ -227,58 +227,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-8 col-sm-offset-2 text-center center-title">
-                    <h2 class="title">Our Team</h2>
-                    <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed consquutur magni dolores ratione voluptatem sequi nesciunt.
-                    </p>
+                    <h2 class="title">Notre Équipe</h2>
+                    <!-- <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed consquutur magni dolores ratione voluptatem sequi nesciunt.
+                    </p> -->
                 </div>
             </div>
-            <div class="team-slider wow slideInUp">
-                <!--team item-->
-                <div class="item">
-                    <div class="team">
-                        <img src="image/team/1.jpg" alt="">
-                        <h3><a href="#">Moinul Ahsan</a></h3>
-                        <h5>UI/UX  and Product Designer</h5>
-                        <ul class="social-icon">
-                            <li><i class="fa fa-facebook"></i></li>
-                            <li><i class="fa fa-twitter"></i></li>
-                            <li><i class="fa fa-linkedin"></i></li>
-                            <li><i class="fa fa-pinterest-p"></i></li>
-                        </ul>
-                    </div>
-                </div>
-                <!--team item-->
-                <div class="item">
-                    <div class="team">
-                        <img src="image/team/2.jpg" alt="">
-                        <div class="texts">
-                            <h3><a href="#">Kazi Sayeed</a></h3>
-                            <h5>UI/UX  and Product Designer</h5>
-                            <ul class="social-icon">
-                                <li><i class="fa fa-facebook"></i></li>
-                                <li><i class="fa fa-twitter"></i></li>
-                                <li><i class="fa fa-linkedin"></i></li>
-                                <li><i class="fa fa-pinterest-p"></i></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <!--team item-->
-                <div class="item">
-                    <div class="team">
-                        <img src="image/team/3.jpg" alt="">
-                        <div class="texts">
-                            <h3><a href="#">Juwel Rana</a></h3>
-                            <h5>UI/UX  and Product Designer</h5>
-                            <ul class="social-icon">
-                                <li><i class="fa fa-facebook"></i></li>
-                                <li><i class="fa fa-twitter"></i></li>
-                                <li><i class="fa fa-linkedin"></i></li>
-                                <li><i class="fa fa-pinterest-p"></i></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
+          
                 <!--team item-->
                 <div class="item">
                     <div class="team">
@@ -310,7 +264,7 @@
                     </div>
                 </div>
                 <!--team item-->
-            </div>
+         
         </div>
     </section>
     <!-- End about-us-area -->
