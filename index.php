@@ -232,7 +232,9 @@
                     </p> -->
                 </div>
             </div>
-          
+            <div class="team-slider wow slideInUp">
+                <!--team item-->
+                
                 <!--team item-->
                 <div class="item">
                     <div class="team">
@@ -264,7 +266,7 @@
                     </div>
                 </div>
                 <!--team item-->
-         
+            </div>
         </div>
     </section>
     <!-- End about-us-area -->
