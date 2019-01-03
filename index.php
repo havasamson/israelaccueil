@@ -223,52 +223,52 @@
     </section>
     <!--End featured work area-->
 
-    <section class="row team-area" id="team" data-scroll-index="4">
+    <!-- <section class="row team-area" id="team" data-scroll-index="4">
         <div class="container">
             <div class="row">
                 <div class="col-sm-8 col-sm-offset-2 text-center center-title">
-                    <h2 class="title">Notre Équipe</h2>
+                    <h2 class="title">Notre Équipe</h2> -->
                     <!-- <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed consquutur magni dolores ratione voluptatem sequi nesciunt.
                     </p> -->
-                </div>
+               <!--  </div>
             </div>
-            <div class="team-slider wow slideInUp">
+            <div class="team-slider wow slideInUp"> -->
                 <!--team item-->
                 
                 <!--team item-->
-                <div class="item">
+               <!--  <div class="item">
                     <div class="team">
                         <img src="image/team/1.jpg" alt="">
                         <h3><a href="#">Marie-Laure</a></h3>
-                         <h5>Présidente</h5>
+                         <h5>Présidente</h5> -->
                         <!--<ul class="social-icon">
                             <li><i class="fa fa-facebook"></i></li>
                             <li><i class="fa fa-twitter"></i></li>
                             <li><i class="fa fa-linkedin"></i></li>
                             <li><i class="fa fa-pinterest-p"></i></li>
                         </ul> -->
-                    </div>
-                </div>
+                  <!--   </div>
+                </div> -->
                 <!--team item-->
-                <div class="item">
+                <!-- <div class="item">
                     <div class="team">
                         <img src="image/team/2.jpg" alt="">
                         <div class="texts">
                             <h3><a href="#">Viviane</a></h3>
-                            <h5>Trésorière</h5>
+                            <h5>Trésorière</h5> -->
                            <!--  <ul class="social-icon">
                                 <li><i class="fa fa-facebook"></i></li>
                                 <li><i class="fa fa-twitter"></i></li>
                                 <li><i class="fa fa-linkedin"></i></li>
                                 <li><i class="fa fa-pinterest-p"></i></li>
                             </ul> -->
-                        </div>
+                   <!--      </div>
                     </div>
-                </div>
+                </div> -->
                 <!--team item-->
-            </div>
+      <!--       </div>
         </div>
-    </section>
+    </section> -->
     <!-- End about-us-area -->
     <section class="inner-contact" id="contact">
         <div class="container-fluid">
