@@ -1,4 +1,4 @@
-<!DOCTYPE<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="fr_FR">
 
 <head>
@@ -153,10 +153,10 @@
                     <div class="about-us wow slideInLeft animated" data-wow-delay="0.3s">
                         <h2>Qui sommes-nous ?</h2>
                         <div class="lineab"></div>
-                        <h3><b style="color:#1398D5;">Israël Accueil</b> aide à l'integration des <b>expatriés français et francophones</b> et crée des opportunités de rencontre et d'échanges au travers d'<b>activités culturelles, sportives ou ludiques</b>.</h3>
+                        <h3><b style="color:#1398D5;">Israël Accueil</b> aide à l'intégration des <b>expatriés français et francophones</b> et crée des opportunités de rencontres et d'échanges au travers d'<b>activités culturelles, sportives ou ludiques</b>.</h3>
 
-                        <p> Créée en 2006, <b style="color:#1398D5;">Israël Accueil</b> permet de découvrir Israël, sa culture et ses habitants ainsi que de partager des informations pratiques et de profiter de l'experience des adhérents installés depuis des années dans le pays. <br>
-                            C'est une association a but non lucratif, apolitique, non confessionelle et non commerciale affilié à la <b style="color:darkred;">FIAFE</b> - <em>Fédération Internationale des Accueils Français et francophones à l'Étranger</em> - qui a pour vocation de promouvoir l'accueil des français dans le monde.
+                        <p> Créée en 2006, <b style="color:#1398D5;">Israël Accueil</b> permet de découvrir Israël, sa culture et ses habitants ainsi que de partager des informations pratiques et de profiter de l'expérience des adhérents installés depuis des années dans le pays. <br>
+                            C'est une association à but non lucratif, apolitique, non confessionnelle et non commerciale affiliée à la <b style="color:darkred;">FIAFE</b> - <em>Fédération Internationale des Accueils Français et francophones à l'Étranger</em> - qui a pour vocation de promouvoir l'accueil des français dans le monde.
            </p>
                     </div>
                 </div>
@@ -180,8 +180,7 @@
                 <h2>Nos Événements</h2>
                 <p>Israël possède une importante <b>communauté francophone</b> et notre association est heureuse <br>
                     de l'animer en synergie avec les <b>institutions française et israéliennes</b> tel que <br>
-                le consulat et l'ambassade de France, la municipalité de Tel Aviv et <br>
-            le ministere des affaires étrangères israéliens.</p>
+                le consulat et l'ambassade de France, etc..</p>
             </div>
 
 
@@ -195,9 +194,7 @@
                         <img src="image/image1.jpg" class="img-responsive" alt="agency">
                     </div>
                     <div class="margintop">
-                     Apéritifs, cocktails, cafés, diners
-                        pour se rencontrer à l'occasion des événements
-                    qui jalonnent l'année ainsi que des concerts, des sorties sportives, des ateliers loisirs et activitées littéraires.
+                     <p>Nous organisons pour nos membres des sorties, visites, excursions, café accueil, afin de permettre aux nouveaux arrivants de s'intégrer facilement dès leurs arrivée en Israël.</p>
                 </div>
             </div>
                 <!--gallery item-->
@@ -209,7 +206,7 @@
                         <img src="image/image3.jpg" class="img-responsive" alt="agency">
                     </div>
                     <div class="margintop">
-                    Des visites de découvertes du pays,de sites de production, <br>
+                    Des visites de découvertes du pays, de sites de production, <br>
                     des expositions
                 et des conférences.
                 </div>
@@ -240,7 +237,7 @@
                         </div>
                         <div class="short-contact-box2">
                             <h4>Téléphone</h4>
-                            <p>+9527251625</p>
+                            <p>0587883055</p>
                         </div>
                         <div class="short-contact-box2">
                             <h4>Email</h4>
@@ -308,7 +305,7 @@
                                </a>
 
 
-                        <p> <b style="color:#1398D5;">Israël Accueil</b> est une association a but non lucratif, apolitique, non confessionelle et non commerciale affilié à la <b style="color:darkred;">FIAFE</b> - Fédération Internationale des Accueils Français et francophones à l'Étranger - qui a pour vocation de promouvoir l'accueil des français dans le monde.</p>
+                        <p> <b style="color:#1398D5;">Israël Accueil</b> est une association à but non lucratif, apolitique, non confessionnelle et non commerciale affiliée à la <b style="color:darkred;">FIAFE</b> - Fédération Internationale des Accueils Français et francophones à l'Étranger - qui a pour vocation de promouvoir l'accueil des français dans le monde.</p>
                     </div>
                     <div class="widget widget3 widget_twitter  col-xs-6 col-sm-6 col-md-3">
                         <h4 class="widget_title" id="liens">Liens Utiles</h4>
@@ -322,12 +319,12 @@
                                               </li>
                                 <li>
 
-                                        <a href="http://institutfrancais-israel.com/"><i class="fa fa-link"></i>Instituts Français Israël</a>
+                                        <a href="http://institutfrancais-israel.com/"><i class="fa fa-link"></i>Instituts Français en Israël</a>
 
                                               </li>
 
                                 <li>
-                                       <a href="https://il.ambafrance.org/"><i class="fa fa-link"></i>Embassade de France en Israël</a>
+                                       <a href="https://il.ambafrance.org/"><i class="fa fa-link"></i>Ambassade de France en Israël</a>
 
                                 </li>
                                 <li>
@@ -344,7 +341,7 @@
 
 
                             <span><a href="https://jerusalem-info.com/petit-lexique-pour-se-debrouiller-en-hebreu-2/"><i class="fa fa-arrow-circle-right"></i>  Lexique en hébreu</a></span>
-                            <span><a href="https://www.sante.org.il/numeros-de-telephone-utiles/"><i class="fa fa-arrow-circle-right"></i> Numeros utiles</a></span>
+                            <span><a href="https://www.sante.org.il/numeros-de-telephone-utiles/"><i class="fa fa-arrow-circle-right"></i> Numéros utiles</a></span>
                         </div>
                     <div class="widget widget2 widget_contact col-xs-6 col-sm-6 col-md-3">
                         <h4 class="widget_title">Contact Info</h4>
@@ -360,7 +357,7 @@
                                 <li>
                                     <i class="ti-mobile"></i>
                                     <div class="fleft contact_no">
-                                        <a href="#">+972527251625</a>
+                                        <a href="#">0587883055</a>
                                     </div>
                                 </li>
                                 <li>
@@ -372,7 +369,7 @@
                                 <li>
                                     <i class="ti-facebook"></i>
                                     <div class="fleft contact_mail">
-                                        <a href="www.facebook.com/fiafeisrael">Israel Accueil</a>
+                                        <a href="www.facebook.com/fiafeisrael">Israël Accueil</a>
                                     </div>
                                 </li>
                             </ul>
