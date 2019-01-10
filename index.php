@@ -179,7 +179,7 @@
             <div class="row text-center index-2-title">
                 <h2>Nos Événements</h2>
                 <p>Israël possède une importante <b>communauté francophone</b> et notre association est heureuse <br>
-                    de l'animer en synergie avec les <b>institutions française et israéliennes</b> tel que <br>
+                    de l'animer en synergie avec les <b>institutions françaises</b> telles que <br>
                 le consulat et l'ambassade de France, etc..</p>
             </div>
 
@@ -284,7 +284,7 @@
                         </div>
                         <div class="short-contact-box2">
                             <h4>Téléphone</h4>
-                            <p>0587883055</p>
+                            <p>0587883045</p>
                         </div>
                         <div class="short-contact-box2">
                             <h4>Email</h4>
@@ -404,7 +404,7 @@
                                 <li>
                                     <i class="ti-mobile"></i>
                                     <div class="fleft contact_no">
-                                        <a href="#">0587883055</a>
+                                        <a href="#">0587883045</a>
                                     </div>
                                 </li>
                                 <li>
